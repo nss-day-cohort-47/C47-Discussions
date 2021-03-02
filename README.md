@@ -1,40 +1,38 @@
 # Student Help Repo
 This repo will help instructors and students help each other with code and any other issues related to the coursework.
 
-Make sure to join the **`#c47-student-help`** slack channel to get updates on requests for help and to see other reported issues.
 
 [Here is a resource](https://guides.github.com/features/mastering-markdown/) to help you learn about markdown to style your code and submissions.
 
-## How to ask for help
-Follow the steps below to ask for help
+## About the Discussion Board:
+Click on the 'Discussion' tab to access the board
 
-### Step 1
-1. Navigate to issues
-2. Check both opened and closed issues to see if someone else had your same issue
-> ![Issues](./assets/navigate-to-issues.png) 
+Let us know you've read the **[How to Ask for Help](https://github.com/nss-day-cohort-47/C47-Discussions/discussions/1)** discussion and leave a comment that you you understand the process 
 
-### Step 2
-Click "New Issue"
-> ![Issues](./assets/click-new-issue.png)
+**Make sure to search the board before posting a new discussion, so as to not repeat topics**
 
-### Step 3
-Click "Get Started" on the Template you would like to use
-> ![Issues](./assets/click-get-started.png)
+You will see several categories of discussion. When starting a new discussion, please select the most applicable category based on the descriptions below:
 
-### Step 4
-1. Add a description of what you need help with in the **Title**
-1. Update details as outlined in the template
-> ![Issues](./assets/step4.png)
+<hr>
 
-#### Step 5
-Click "Submit new issue"
-> ![Issues](./assets/step6.png)
+## Class notes and discussion
+Supplemental material to topics covered during lectures or anything else in general regarding the curriculum
 
-#### Step 6
-1. Continue searching for a solution to your issue **(If you find a solution, add a comment with your solution then remove the help wanted tag and add issue resolved)**
-1. See if you can help another classmate
-1. Patiently await help
-> ![Wait](./assets/tenor.gif)
+## Discuss a topic
+General topics about code, your bootcamp experience, things we've mentioned in class, cool tech, etc.
 
+## Help me
+This is where to go when you have a specific problem and you need a second set of eyes on your code. **Be sure to follow the format outlined [here](https://github.com/nss-day-cohort-47/C47-Discussions/discussions/1)**
 
+If you post a new discussion requesting help...
+1. Continue searching for a solution to your issue
+1. See if you can help another classmate with an issue they're having
+1. Patiently await help for your issue
+2. **If you find a solution**, add a comment with your solution and click the check to mark the discussion as answered
+2. **If a peer has offered an acceptable solution**, add a comment accepting the solution and click the check to mark the discussion as answered
 
+## Look what I learned
+Show off some newfound knowledge or check out what your peers have discovered!
+
+## Rubber Duck
+This is a great place to verbalize what your code is or is not doing, as well as your understanding of a particular concept.
