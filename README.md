@@ -36,3 +36,12 @@ Show off some newfound knowledge or check out what your peers have discovered!
 
 ## Rubber Duck
 This is a great place to verbalize what your code is or is not doing, as well as your understanding of a particular concept.
+<<<<<<< HEAD
+
+<hr>
+
+## Discussion Board Tips
+
+![Discussion Hints](./assets/discussion-example.jpg)
+=======
+>>>>>>> master
