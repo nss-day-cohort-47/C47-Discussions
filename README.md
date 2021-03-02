@@ -43,5 +43,3 @@ This is a great place to verbalize what your code is or is not doing, as well as
 ## Discussion Board Tips
 
 ![Discussion Hints](./assets/discussion-example.jpg)
-=======
->>>>>>> master
